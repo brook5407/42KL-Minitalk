@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/brook5407/42KL-Minitalk">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/brook5407/42KL-Minitalk">
 	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/brook5407/42KL-Minitalk">
 	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brook5407/42KL-Minitalk">
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brook5407/42KL-Minitalk">
